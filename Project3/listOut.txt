@@ -1,0 +1,111 @@
+     Current date and time:Sat May 11 12:58:51 2019
+                           by                        
+                      Artem Murzo                    
+
+        LastName, First   ZipCode  Sex  GPA
+        ---------------   -------  ---  ---
+        Unsorted
+  -------------------------------------------
+        Close, Soo          23456   M   2.99
+        Asp, Baad           24506   F   1.19
+        Wright, Mista       23520   M   3.82
+        Brady, Gerald       11234   M   1.74
+        Walters, Mary       29311   F   2.70
+        Wilson, Roland      23545   M   3.95
+        Probie, Ima         32345   M   0.95
+        Prada, Denice       29472   F   3.91
+        Lizt, President's   45932   F   4.00
+        Brady, William      32011   M   2.80
+        Goode, Very         02212   M   3.27
+        Average, Joe        32211   M   2.08
+        Hardworker, Ima     23322   M   1.90
+        Wallace, Mike       23454   M   3.47
+
+  -------------------------------------------
+              14 student records.
+
+
+        GPA sorted
+  -------------------------------------------
+        Lizt, President's   45932   F   4.00
+        Wilson, Roland      23545   M   3.95
+        Prada, Denice       29472   F   3.91
+        Wright, Mista       23520   M   3.82
+        Wallace, Mike       23454   M   3.47
+        Goode, Very         02212   M   3.27
+        Close, Soo          23456   M   2.99
+        Brady, William      32011   M   2.80
+        Walters, Mary       29311   F   2.70
+        Average, Joe        32211   M   2.08
+        Hardworker, Ima     23322   M   1.90
+        Brady, Gerald       11234   M   1.74
+        Asp, Baad           24506   F   1.19
+        Probie, Ima         32345   M   0.95
+
+  -------------------------------------------
+              14 student records.
+
+
+        Probie, Ima was deleted from the list.
+        Lizt, President's was deleted from the list.
+        Close, Soo was deleted from the list.
+        Right, Ima was not found in the list.
+        GPA sorted
+  -------------------------------------------
+        Wilson, Roland      23545   M   3.95
+        Prada, Denice       29472   F   3.91
+        Wright, Mista       23520   M   3.82
+        Wallace, Mike       23454   M   3.47
+        Goode, Very         02212   M   3.27
+        Brady, William      32011   M   2.80
+        Walters, Mary       29311   F   2.70
+        Average, Joe        32211   M   2.08
+        Hardworker, Ima     23322   M   1.90
+        Brady, Gerald       11234   M   1.74
+        Asp, Baad           24506   F   1.19
+
+  -------------------------------------------
+              11 student records.
+
+
+        Dawg, Top was added to the list.
+        Name sorted
+  -------------------------------------------
+        Asp, Baad           24506   F   1.19
+        Average, Joe        32211   M   2.08
+        Brady, Gerald       11234   M   1.74
+        Brady, William      32011   M   2.80
+        Dawg, Top           23452   M   3.92
+        Goode, Very         02212   M   3.27
+        Hardworker, Ima     23322   M   1.90
+        Prada, Denice       29472   F   3.91
+        Wallace, Mike       23454   M   3.47
+        Walters, Mary       29311   F   2.70
+        Wilson, Roland      23545   M   3.95
+        Wright, Mista       23520   M   3.82
+
+  -------------------------------------------
+              12 student records.
+
+
+        Original list2
+  -------------------------------------------
+        Close, Soo          23456   M   2.99
+        Asp, Baad           24506   F   1.19
+        Wright, Mista       23520   M   3.82
+        Brady, Gerald       11234   M   1.74
+        Walters, Mary       29311   F   2.70
+        Wilson, Roland      23545   M   3.95
+        Probie, Ima         32345   M   0.95
+        Prada, Denice       29472   F   3.91
+        Lizt, President's   45932   F   4.00
+        Brady, William      32011   M   2.80
+        Goode, Very         02212   M   3.27
+        Average, Joe        32211   M   2.08
+        Hardworker, Ima     23322   M   1.90
+        Wallace, Mike       23454   M   3.47
+
+  -------------------------------------------
+              14 student records.
+
+
