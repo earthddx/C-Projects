@@ -1,0 +1,16 @@
+     R O M A N   N U M E R A L   C O N V E R T E R
+
+                   by Artem Murzo                  
+
+    M    1000
+ MMIC    2099
+ MCIX    1109
+MCXLIV    1144
+MMXVIII    2018
+MDCLXVI    1666
+CDXCIX     499
+CCCLIX     359
+DCCIV     704
+MIXIT      -1
+NOWAY      -1
+  MOM      -1
