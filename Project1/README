@@ -1,0 +1,6 @@
+/**
+   Written by Artem Murzo
+   Date:  09/15/2018
+   Tests the romanType class and its member functions.
+   Converts the roman numerals to decimal numbers and detects errors.
+*/
