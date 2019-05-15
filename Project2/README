@@ -1,0 +1,8 @@
+/* 
+   Written by Artem Murzo
+   Date:  10/09/2018
+   The user program that uses a base class CircleType
+   and derives the class CylinderType and SphereType
+   implementation files to demonstrate more specific classes.
+   This also demonstrates overriding the base class methods for area() & print().
+*/
